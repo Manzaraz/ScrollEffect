@@ -1,7 +1,7 @@
 # Scroll Effects
 Use SwiftUI to create effects for ScrollView.
 
-!(Scroll efects Demo)[/scroll-effects.gif]
+![Scroll efects Demo](/scroll-effects.gif)
 
 🖐🖐🖐 Hello Everyone! 🖐🖐🖐
 
